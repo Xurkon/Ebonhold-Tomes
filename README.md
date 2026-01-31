@@ -17,3 +17,9 @@ AtlasLoot Enhanced for World of Warcraft 3.3.5 is a comprehensive loot browser. 
 - Open the browser: `/al` or `/atlasloot`
 - Options menu: `/atlasloot options`
 - Toggle minimap button: `/atlasloot mmb`
+
+## Credits
+| **Role** | **Contributor** |
+| :--- | :--- |
+| **Original Tomes Information** | [Raynbock](https://github.com/Raynbock) |
+| **WishList Fix & Documentation** | [Xurkon](https://github.com/Xurkon) |
